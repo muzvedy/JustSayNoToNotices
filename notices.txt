@@ -1,8 +1,22 @@
 [Adblock Plus 2.0]
 ! Version:
-! Title:
+! Title: Notices
 ! Last modified:
-! Expires: 1 hour
+! Expires: 1 day
 ! Homepage:
 !
 
+www.bleepingcomputer.com##.cc-color-override--1360619034.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+dolphin-emu.org##.cc-color-override-688238583.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+forum.handbrake.fr##.cc-color-override--1687565279.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+www.howtogeek.com##.email-overlay
+www.howtogeek.com##.overlay-wrapper
+www.nick.com###balaMainContainer
+www.nickatnite.com###balaMainContainer
+www.nickjr.com###balaMainContainer
+www.ratemyprofessors.com###balaMainContainer
+www.ratemyprofessors.com##.popoutContainer
+reddit.com##.seo-comments
+www.teennick.com###balaMainContainer
+www.physicsforums.com##.Notices.FloatingContainer
+www.yoyogames.com##.js-cookies-eu.cookies-eu
